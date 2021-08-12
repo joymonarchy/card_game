@@ -1,0 +1,10 @@
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\bin\Debug\shuangSeJieLong.exe.config
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\bin\Debug\shuangSeJieLong.exe
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\bin\Debug\shuangSeJieLong.pdb
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.csprojAssemblyReference.cache
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.Form1.resources
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.Properties.Resources.resources
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.csproj.GenerateResource.cache
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.csproj.CoreCompileInputs.cache
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.exe
+F:\piiaJet\c#大作业\shuangSeJieLong\shuangSeJieLong\obj\Debug\shuangSeJieLong.pdb
